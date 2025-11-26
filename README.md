@@ -29,7 +29,7 @@
   <tr>
     <td align="center">
       <img
-        src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true"
+        src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&theme=algolia&no-frame=true&no-bg=true"
         width="900"
         alt="Trophy"
       />
