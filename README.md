@@ -11,7 +11,7 @@
 ## 🌌 Most Used Languages
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=dark&hide_border=true"
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&langs_count=8&theme=dark&hide_border=true"
     alt="Top Languages"
   />
 </p>
@@ -21,7 +21,7 @@
 ## 🏆 Profile Trophy
 <p align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&theme=algolia&no-frame=true&no-bg=true" 
+    src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&rank=-C,-B" 
     alt="Trophy"
   />
 </p>
@@ -31,9 +31,14 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/?username=h1dr0nn&show_icons=true&theme=dark&hide_border=true"
+    src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/?username=h1dr0nn&count_private=true&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=h1dr0nn&theme=dark)](https://git.io/streak-stats)
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com/?user=h1dr0nn&theme=dark&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
