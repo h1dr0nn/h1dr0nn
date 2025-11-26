@@ -1,5 +1,3 @@
-<h2 align="center">Hi there 👋</h2>
-
 <!-- Typograssy -->
 <p align="center">
   <img src="https://typograssy.deno.dev/api?text=H1DR0N%20DEVELOPER&l0=111111&l1=5cab5c&l2=2e7d32&bg=00000000" />
