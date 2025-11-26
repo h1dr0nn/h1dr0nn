@@ -1,44 +1,38 @@
-<!-- Typograssy -->
-<p align="center">
-  <img 
-    src="https://typograssy.deno.dev/api?text=H1DR0N%20DEVELOPER&l0=111111&l1=5cab5c&l2=2e7d32&bg=00000000" 
-    alt="H1DR0N Banner"
-  />
-</p>
-
----
-
 ## 🌌 Most Used Languages
-<p align="center">
+<div align="center">
   <img 
     src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&langs_count=8&theme=dark&hide_border=true"
     alt="Top Languages"
+    width="430"
   />
-</p>
+</div>
 
 ---
 
 ## 🏆 Profile Trophy
-<p align="center">
+<div align="center">
   <img 
-    src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&rank=-C,-B" 
+    src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&rank=-C,-B&theme=algolia&no-bg=true&no-frame=true"
     alt="Trophy"
+    width="780"
   />
-</p>
+</div>
 
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
+<div align="center">
   <img 
     src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/?username=h1dr0nn&count_private=true&show_icons=true&theme=dark&hide_border=true"
     alt="GitHub Stats"
+    width="440"
   />
-</p>
 
-<p align="center">
+  <br/>
+
   <img 
-    src="https://streak-stats.demolab.com/?user=h1dr0nn&theme=dark&hide_border=true"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=h1dr0nn&theme=dark&hide_border=true"
     alt="GitHub Streak"
+    width="440"
   />
-</p>
+</div>
