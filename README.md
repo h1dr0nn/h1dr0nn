@@ -12,7 +12,7 @@
     </td>
     <td align="center">
       <img
-        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=transparent&hide_border=true"
+        src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=transparent&hide_border=true&langs_count=6"
         alt="Top Languages"
       />
     </td>
