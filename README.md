@@ -7,14 +7,12 @@
     <td align="center">
       <img
         src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=transparent&hide_border=true"
-        width="400"
         alt="Top Languages"
       />
     </td>
     <td align="center">
       <img
         src="https://github-readme-stats-git-masterorg-github-readme-stats-team.vercel.app/api?username=h1dr0nn&count_private=true&show_icons=true&theme=transparent&hide_border=true"
-        width="400"
         alt="GitHub Stats"
       />
     </td>
