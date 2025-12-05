@@ -28,7 +28,6 @@
     <td align="center">
       <img
         src="https://github-profile-trophy.vercel.app/?username=h1dr0nn&theme=algolia&no-frame=true&no-bg=true"
-        width="900"
         alt="Trophy"
       />
     </td>
