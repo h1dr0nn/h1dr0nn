@@ -6,13 +6,13 @@
   <tr>
     <td align="center">
       <img
-        src="https://afterhours-profile-trophy.vercel.app/api?username=h1dr0nn&count_private=true&show_icons=true&theme=transparent&hide_border=true"
+        src="https://afterhours-readme-stats.vercel.app/api?username=h1dr0nn&count_private=true&show_icons=true&theme=transparent&hide_border=true"
         alt="GitHub Stats"
       />
     </td>
     <td align="center">
       <img
-        src="https://afterhours-profile-trophy.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+        src="https://afterhours-readme-stats.vercel.app/api/top-langs/?username=h1dr0nn&layout=compact&theme=transparent&hide_border=true&langs_count=8"
         alt="Top Languages"
       />
     </td>
